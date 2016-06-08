@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1464545166 source:/home/zwirek/SOI/Lab 4/SOIMonitoryMW/main.cpp
+	"include.h"
+	"monitor.h"
+
+1464544547 source:/home/zwirek/SOI/Lab 4/SOIMonitoryMW/monitor.cpp
+	"monitor.h"
+
+1464541211 /home/zwirek/SOI/Lab 4/SOIMonitoryMW/monitor.h
+	"include.h"
+	"semaphore.h"
+
+1464604945 /home/zwirek/SOI/Lab 4/SOIMonitoryMW/include.h
+	<iostream>
+	<thread>
+	</usr/include/sys/shm.h>
+	</usr/include/sys/types.h>
+	</usr/include/sys/ipc.h>
+	</usr/include/sys/sem.h>
+	</usr/include/sys/wait.h>
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<unistd.h>
+	<errno.h>
+	<string.h>
+	<sched.h>
+
+1464293831 /home/zwirek/SOI/Lab 4/SOIMonitoryMW/semaphore.h
+	"include.h"
+
+1464293831 source:/home/zwirek/SOI/Lab 4/SOIMonitoryMW/semaphore.cpp
+	"semaphore.h"
+
+1464285313 /home/zwirek/SOI/Lab 4/SOIMonitoryMW/myqueue.h
+	"include.h"
+
